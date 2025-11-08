@@ -1,0 +1,7 @@
+Method,MSE / Accuracy,Task
+OLS,0.033655359986224286,Regression
+Ridge,0.04068021057882352,Regression
+Lasso,0.04003041843919254,Regression
+NN (Regression),0.024885557364367643,Regression
+NN (Classification),0.9759285714285715,Classification
+Logistic Regression,0.9224285714285714,Classification
